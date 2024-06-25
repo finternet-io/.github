@@ -24,7 +24,7 @@ The Finternet Sandbox is being modeled under for the following use cases and sta
 
 | Use case | Status |
 |----------|----------|
-| Domestic money transfer (add link to prototype) | In progress |
+| [Domestic money transfer](https://docs.google.com/document/d/1ynCQHmcMAoacoAPJnIXjCd7b7nJJkbpYdpUCcKHWl2Q/edit?usp=sharing) | In progress |
 | Pledge a land and obtain commercial loan (add link to prototype) | Not started |
 | Cross Border money transfer  (add link to prototype) | Not started |
 
